@@ -23,6 +23,7 @@
 - [MorphNet: Fast & Simple Resource-Constrained Learning of Deep Network Structure](https://arxiv.org/abs/1711.06798), CVPR2018, Google发布的对网络自动裁剪模型。 [code](https://arxiv.org/abs/1711.06798)
 
 ## Network quantization
+- [Quantization and Training of Neural Networks for EfficientInteger-Arithmetic-Only Inference](https://arxiv.org/abs/1712.05877), CVPR2018, google出品的训练时量化文章Quantization-Aware-Training
 
 ## Knowledge Transfer:
 - [Distilling the Knowledge in a Neural Network, Hinton et al, NIPS 2014](https://arxiv.org/abs/1503.02531)
